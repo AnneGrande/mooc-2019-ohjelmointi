@@ -1,0 +1,1 @@
+[{"className":"KayttajatunnuksetTest","methodName":"sopivatKayvat","pointNames":["03-25"],"status":"PASSED"},{"className":"KayttajatunnuksetTest","methodName":"sopimattomatEivatKay","pointNames":["03-25"],"status":"PASSED"}]
